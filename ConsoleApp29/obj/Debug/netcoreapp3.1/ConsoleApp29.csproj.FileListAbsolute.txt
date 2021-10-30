@@ -1,0 +1,14 @@
+D:\робат\С#\ConsoleApp29\ConsoleApp29\bin\Debug\netcoreapp3.1\ConsoleApp29.exe
+D:\робат\С#\ConsoleApp29\ConsoleApp29\bin\Debug\netcoreapp3.1\ConsoleApp29.deps.json
+D:\робат\С#\ConsoleApp29\ConsoleApp29\bin\Debug\netcoreapp3.1\ConsoleApp29.runtimeconfig.json
+D:\робат\С#\ConsoleApp29\ConsoleApp29\bin\Debug\netcoreapp3.1\ConsoleApp29.runtimeconfig.dev.json
+D:\робат\С#\ConsoleApp29\ConsoleApp29\bin\Debug\netcoreapp3.1\ConsoleApp29.dll
+D:\робат\С#\ConsoleApp29\ConsoleApp29\bin\Debug\netcoreapp3.1\ConsoleApp29.pdb
+D:\робат\С#\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.csproj.AssemblyReference.cache
+D:\робат\С#\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.GeneratedMSBuildEditorConfig.editorconfig
+D:\робат\С#\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.AssemblyInfoInputs.cache
+D:\робат\С#\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.AssemblyInfo.cs
+D:\робат\С#\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.csproj.CoreCompileInputs.cache
+D:\робат\С#\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.dll
+D:\робат\С#\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.pdb
+D:\робат\С#\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.genruntimeconfig.cache
